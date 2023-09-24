@@ -1,6 +1,6 @@
 import re
 from termcolor import colored
-
+teste
 html_content = """
 <html>
 <head>
